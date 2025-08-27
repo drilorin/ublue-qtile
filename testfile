@@ -1,3 +1,5 @@
 git@github.com:drerik/desktop-bluebuild-test.git
 ghcr.io/ublue-os/vauxite-main
 sudo bootc switch ghcr.io/ublue-os/bazzite:stable --enforce-container-sigpolicy
+
+ghcr.io/ublue-os/vauxite-main
