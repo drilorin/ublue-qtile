@@ -11,6 +11,8 @@ set -ouex pipefail
 
 # this installs a package from fedora repos
 dnf5 install -y tmux 
+dnf5 install -y terminator
+dnf5 install -y neovim
 
 # Use a COPR Example:
 #
