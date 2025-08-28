@@ -24,3 +24,5 @@ dnf5 install -y neovim
 #### Example for enabling a System Unit File
 
 systemctl enable podman.socket
+cd $HOME/git
+git clone ssh://git@github.com/drilorin/general_scripts.git

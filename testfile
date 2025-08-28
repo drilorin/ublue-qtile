@@ -3,3 +3,4 @@ ghcr.io/ublue-os/vauxite-main
 sudo bootc switch ghcr.io/ublue-os/bazzite:stable --enforce-container-sigpolicy
 
 ghcr.io/ublue-os/vauxite-main
+ssh://git@github.com/drilorin/general_scripts.git
