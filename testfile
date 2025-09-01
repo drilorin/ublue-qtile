@@ -4,3 +4,4 @@ sudo bootc switch ghcr.io/ublue-os/bazzite:stable --enforce-container-sigpolicy
 
 ghcr.io/ublue-os/vauxite-main
 ssh://git@github.com/drilorin/general_scripts.git
+sudo bootc switch --enforce-container-sigpolicy ghcr.io/ublue-os/sericea-main:latest
